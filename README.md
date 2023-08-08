@@ -1,8 +1,8 @@
 # **Kimia Farma Sales Performance**
 
-**Tools**                   : PostgreSQL, Google Sheets (Spreadsheets)
-**Programming Languange**   : SQL
-**Visualization**           : Google Data Studio (Looker studio)
+**Tools**                   : PostgreSQL, Google Sheets (Spreadsheets)<br>
+**Programming Languange**   : SQL<br>
+**Visualization**           : Google Data Studio (Looker studio)<br>
 
 ## **Introduction Project**
 A **Virtual Internship Project-Based: Big Data Analytics in Kimia Farma** facilitated by [Rakamin Academy](https://www.rakamin.com/).
